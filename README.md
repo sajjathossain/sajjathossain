@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sajjadhosenprovel@gmail.com**
 
-- ⚡ Fun fact **I like make jokes which I think is important for everyone in a team to work freely. A free mind.**
+- ⚡ Fun fact **I like to make jokes, which I think is important for everyone in a team to work freely. A free mind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
