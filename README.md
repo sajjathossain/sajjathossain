@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sajjathossain.github.io/portfolio/](https://sajjathossain.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Vist Page](https://sajjathossain.github.io/Portfolio/)
 
 - 💬 Ask me about **Python | Javascript | PHP | Flask | Django**
 
