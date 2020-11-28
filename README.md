@@ -1,4 +1,4 @@
-<h1 align="center" color="orangered">Hey there! I'm Sajjat Hosain</h1>
+<h1 align="center" >Hey there! I'm Sajjat Hosain</h1>
 <h3 align="center">I am a full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjathosain&label=Profile%20views&color=0e75b6&style=flat" alt="sajjathosain" /> </p>
