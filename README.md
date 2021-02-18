@@ -5,10 +5,9 @@ I've completed my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, D
 
 Skills: React | JavaScript | Java | Python | TypeScript | Flask | PHP | MongoDB | MySQL | Bootstrap | CSS3 | HTML5 | SCSS
 
-```
- 💬 Ask me about React | JavaScript | Java | Python | TypeScript | Flask | PHP 
- 📫 How to reach me: sajjadhosenprovel@gmail.com 
-```
+ - 💬 Ask me about React | JavaScript | Java | Python | TypeScript | Flask | PHP 
+ - 📫 How to reach me: sajjadhosenprovel@gmail.com 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajjat-hossain-6477731ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajjat.hossain.official.account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SHProvel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](vibrant-heyrovsky-c8a36b.netlify.app)  
 
