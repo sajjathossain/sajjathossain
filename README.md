@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, my name is Sajjat Hossain </h2>
 <h3 align="center"> I am a FullStack Web Developer </h3>
-[<img src='./img/profile.png' alt='github' height='40'>](https://github.com/sajjathossain)
+[<img src='./img/profile.png' alt='profile' height='100%' align='center'>](https://github.com/sajjathossain)
 
 I've completed my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, Dhaka, Bangladesh. I love to work with modern and innovative technologies. 
 
