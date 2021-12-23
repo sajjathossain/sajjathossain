@@ -3,12 +3,12 @@
 
 <a href="https://app.daily.dev/SajjatHossain"><img src="https://api.daily.dev/devcards/46694225e07d4e6ab2a89ebeb16cdb3c.png?r=x1a" width="400" alt="Sajjat Hossain's Dev Card"/></a>
 
-I've completed my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, Dhaka, Bangladesh. I love to work with modern and innovative technologies. 
+Currently acquiring my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, Dhaka, Bangladesh. I love to work with modern and innovative technologies. 
 
-Skills: React | JavaScript | Java | Python | TypeScript | Flask | PHP | MongoDB | MySQL | Bootstrap | CSS3 | HTML5 | SCSS
+Skills: Next.js | React.js | Typescript | JavaScript | CSS | SCSS | Tailwind CSS
 
- - 💬 Ask me about React | JavaScript | Java | Python | TypeScript | Flask | PHP 
- - 📫 How to reach me: sajjadhosenprovel@gmail.com 
+ - 💬 Ask me about: Next.js | React.js  | TypeScript | JavaScript | Tailwind CSS | CSS 
+ - 📫 How to reach me: sajjathossain.official@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajjat-hossain-6477731ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajjat.hossain.official.account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SHProvel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vibrant-heyrovsky-c8a36b.netlify.app)  
