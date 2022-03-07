@@ -1,7 +1,13 @@
 <h2 align="center"> Hi there 👋, my name is Sajjat Hossain </h2>
 <h3 align="center"> I am a FullStack Web Developer </h3>
 
-<a href="https://app.daily.dev/SajjatHossain"><img src="https://api.daily.dev/devcards/46694225e07d4e6ab2a89ebeb16cdb3c.png?r=x1a" width="400" alt="Sajjat Hossain's Dev Card"/></a>
+<div align="center">
+<a href="https://app.daily.dev/SajjatHossain">
+ <img src="https://api.daily.dev/devcards/46694225e07d4e6ab2a89ebeb16cdb3c.png?r=x1a" width="400" alt="Sajjat Hossain's Dev Card"/>
+</a>
+</div>
+
+![](https://komarev.com/ghpvc/?username=sajjathossain&label=PROFILE+VIEWS&color=blue) 
 
 Currently acquiring my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, Dhaka, Bangladesh. I love to work with modern and innovative technologies. 
 
