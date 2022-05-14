@@ -9,15 +9,18 @@
 
 ![](https://komarev.com/ghpvc/?username=sajjathossain&label=PROFILE+VIEWS&color=blue) 
 
-Currently acquiring my BSc in CSE from Ranada Prasad Shaha University, Narayanganj, Dhaka, Bangladesh. I love to work with modern and innovative technologies. 
+- I'm a self taught developer who loves to code and has keen eyes for quality over quantity. I love to work with a team as it allows one to grow faster in my opinion. 
+- I have experience working with Next.js, Typescript, Jest and basic understanding of Github CI/CD workflows. 
 
-Skills: Next.js | React.js | Typescript | JavaScript | CSS | SCSS | Tailwind CSS
+- Skills: Next.js | React.js | Typescript | JavaScript | CSS | SCSS | Tailwind CSS
 
- - 💬 Ask me about: Next.js | React.js  | TypeScript | JavaScript | Tailwind CSS | CSS 
- - 📫 How to reach me: sajjathossain.official@gmail.com 
+- Email : sajjathossain.official@gmail.com 
 
+<div align="center">
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajjat-hossain-6477731ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajjat.hossain.official.account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SHProvel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vibrant-heyrovsky-c8a36b.netlify.app) 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sajjathossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajjat-hossain-6477731ab//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajjat.hossain.official.account)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SHProvel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vibrant-heyrovsky-c8a36b.netlify.app)  
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjathossain)](https://github.com/anuraghazra/github-readme-stats)
 
