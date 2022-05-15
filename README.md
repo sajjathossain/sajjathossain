@@ -24,13 +24,13 @@
 
 
 <!-- contacts -->
-<div align="center">
+<div align="center" width="100%">
 
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjathossain&show_icons=true) -->  
- <img src="https://github-readme-stats.vercel.app/api?username=sajjathossain&show_icons=true" float="left" width="500"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=sajjathossain&show_icons=true" float="left" width="49%"/>
 
  <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sajjathossain)  -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjathossain" float="right"  width="500"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajjathossain" float="right"  width="49%"/>
 
 </div>
  
