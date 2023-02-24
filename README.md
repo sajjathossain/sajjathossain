@@ -3,7 +3,8 @@
 </div>
 <h1 align="center">Sajjat Hossain</h1>
 
-Frontend Engineer [@Airwrk](https://airwrk.com) | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
+> **Note**
+> Frontend Engineer [@Airwrk](https://airwrk.com) | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
 
 <details>
 <summary><b>About me:</b></summary>
