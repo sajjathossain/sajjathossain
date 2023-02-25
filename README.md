@@ -5,18 +5,36 @@
 
 Frontend Engineer [@Airwrk](https://airwrk.com) | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
 
-<details>
-<summary><b>About me:</b></summary>
+**About me:**
 
 I'm a self-taught developer who is passionate about coding and loves to code and also has keen eyes for quality over quantity.
 I love to work with a team as it allows one to grow faster in my opinion. I have experience working with Next.js, Typescript, and Jest, and have a basic understanding of Github CI/CD workflows.
 
 I can switch technologies on demand very easily. Also, I use Vim (NeoVim) and Arch (Manjaro).
 
-</details>
-
 ![github-contrib-snake](./github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github-contrib-snake](./github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<details>
+<summary><b>Projects:</b></summary>
+
+- **Next Pokedex**
+
+  Simple pokedex app using pokemon api
+
+  - [Github](https://github.com/sajjathossain/next-pokedex)
+  - [Live](https://next-pokemon.netlify.app/)
+    <iframe src="https://next-pokemon.netlify.app/" width="100%" border="none" height="350px"></iframe>
+
+- **Svelte Calender**
+
+  Calendar using svelte.js
+
+  - [Github](https://github.com/sajjathossain/svelte-calendar)
+  - [Live](https://svelte-minimal-calendar.netlify.app/)
+    <iframe src="https://svelte-minimal-calendar.netlify.app/" width="100%" border="none" height="350px"></iframe>
+
+</details>
 
 <details>
 <summary><b>Things you can ask me about:</b></summary>
