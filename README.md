@@ -25,16 +25,12 @@ I can switch technologies on demand very easily. Also, I use Vim (NeoVim) and Ar
   - [Github](https://github.com/sajjathossain/next-pokedex)
   - [Live](https://next-pokemon.netlify.app/)
 
-  <iframe src="https://next-pokemon.netlify.app/" width="100%" border="none" height="350px"></iframe>
-
 - **Svelte Calender**
 
   Calendar using svelte.js
 
   - [Github](https://github.com/sajjathossain/svelte-calendar)
   - [Live](https://svelte-minimal-calendar.netlify.app/)
-
-  <iframe src="https://svelte-minimal-calendar.netlify.app/" width="100%" border="none" height="350px"></iframe>
 
 </details>
 
