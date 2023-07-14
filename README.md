@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Sajjat Hossain</h1>
 
-Frontend Engineer [@Airwrk](https://airwrk.com) | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
+Fullstack Engineer @Panshilab | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
 
 **About me:**
 
@@ -11,6 +11,12 @@ I'm a self-taught developer who is passionate about coding and loves to code and
 I love to work with a team as it allows one to grow faster in my opinion. I have experience working with Next.js, Typescript, and Jest, and have a basic understanding of Github CI/CD workflows.
 
 I can switch technologies on demand very easily. Also, I use Vim (NeoVim) and Arch (Manjaro).
+
+**Job History:**
+- Fullstack engineer at **Panshilab** | June 2023 - Current
+  - Technologies: Nest.js, Next.js, Postgres, TypeScript, TypeORM, Material UI, etc
+- Frontend engineer at **Airwrk** | August 2022 - June 2023
+  - Technologies: Next.js, Tailwind CSS, RTK Query, TypeScript, etc
 
 ![github-contrib-snake](./github-contribution-grid-snake.svg#gh-light-mode-only)
 ![github-contrib-snake](./github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
