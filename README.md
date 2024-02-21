@@ -1,8 +1,8 @@
 <div align="center">
 <!--  old one: <a  href="https://app.daily.dev/SajjatHossain"><img src="https://api.daily.dev/devcards/46694225e07d4e6ab2a89ebeb16cdb3c.png?r=bsw" width="400" alt="Sajjat Hossain's Dev Card"/></a> -->
-  <a href="https://app.daily.dev/sajjathossain"><img src="https://api.daily.dev/devcards/v2/xfRn7cGHY.png?r=tck&type=wide" width="652" alt="Sajjat Hossain's Dev Card"/></a>
+  <a href="https://app.daily.dev/sajjathossain"><img src="https://api.daily.dev/devcards/v2/xfRn7cGHY.png?r=tck&type=wide" width="80%" alt="Sajjat Hossain's Dev Card"/></a>
 </div>
-<h1 align="center">Sajjat Hossain</h1>
+<!-- <h1 align="center">Sajjat Hossain</h1> -->
 
 Fullstack Engineer @Panshilab | Software Engineer (Volunteer) [@Prayers Connect](https://prayersconnect.com)
 
